@@ -1,11 +1,10 @@
 # Projects Folder Convention
 
-Use `Projects/` for actual package engagements and for dry runs that should be kept separate from the shared source documents.
+Use `Projects/` for actual Package A, Package B, and Package C engagements.
 
 ## What belongs here
 
 * Real Package A, Package B, and Package C engagements
-* Dry runs and scenario tests in `Projects/Dry runs/`
 * Any project-specific artifacts created while running a package
 
 Do not store live project artifacts in `Packages/`, `Sales materials/`, or `skills/`. Those folders are for reusable source material.
@@ -69,7 +68,7 @@ For interview stages, `generate_next_activity_prep.py` also creates a project-sp
 
 For mapping stages, `generate_next_activity_prep.py` also creates a project-specific `next_activity_mapping_canvas*.md` file in `00-project-setup/shared-prep/`, based on the validated project context so far.
 
-Use [Templates/English/Shared/pilot_retrospective_template.md](Templates/English/Shared/pilot_retrospective_template.md) after a pilot or dry run so framework changes are driven by observed friction rather than memory.
+Use [Templates/English/Shared/pilot_retrospective_template.md](Templates/English/Shared/pilot_retrospective_template.md) after a pilot so framework changes are driven by observed friction rather than memory.
 
 ## Project naming rule
 
