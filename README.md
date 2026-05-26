@@ -75,6 +75,8 @@ Use this area when a real engagement starts. It contains:
 
 The internal skill library used to support package activities, synthesis steps, and strategy artifact production.
 
+See [skills/README.md](skills/README.md) for the full skill catalog and a short summary of each skill's purpose.
+
 ## How The Offer Is Structured
 
 The client-facing offer is built as three upstream discovery packages:
