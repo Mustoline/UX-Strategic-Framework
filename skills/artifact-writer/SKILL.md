@@ -75,9 +75,9 @@ Use [artifact-templates.md](references/artifact-templates.md) for reusable struc
 
 When relevant, align the output with the repository's established documents:
 
-* [executive_offer_one_pager.md](../../executive_offer_one_pager.md)
-* [discovery_phase_proposal_template.md](../../discovery_phase_proposal_template.md)
-* [strategic_ux_packages.md](../../strategic_ux_packages.md)
+* [executive_offer_one_pager.md](../../Sales materials/English/executive_offer_one_pager.md)
+* [discovery_phase_proposal_template.md](../../Sales materials/English/discovery_phase_proposal_template.md)
+* [strategic_ux_packages.md](../../Packages/English/strategic_ux_packages.md)
 
 ## Minimum output standard
 
